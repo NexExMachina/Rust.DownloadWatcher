@@ -1,4 +1,10 @@
 
+## Authors
+
+- [@NexExMachina](https://github.com/NexExMachina/)
+- [@Egg]()
+
+
 # Rust Download Folder Monitor
 
 One of by biggest pet peeves as a server owner is working with developers and getting version after version fired at me to upload to servers. 
@@ -16,8 +22,8 @@ NOTE: This will only keep 2 versions - The Latest and the Previous.
 
 ## Features
 
-- Generates Password 12-128 depending on  input
-- Copies to Clipboard
+- Monitors set download folder for incoming files
+- Moves, Renames, Deletes so you only have the latest version with the correct name `PluginName.cs` etc
 
 
 
