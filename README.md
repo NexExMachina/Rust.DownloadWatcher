@@ -13,6 +13,8 @@ If you're untidy like myself you end up with `PluginName (1).cs` and to be hones
 
 We solved this in this script by monitoring the downloads folder for new files, upon seeing a new file of `.json` or `.cs` type we'll move the original version to a new folder created in Downloads.
 
+Then it'll rename your latest copy to `PluginName.cs` or `PluginName.json` so you can upload it without any renaming shenanigans.
+
 NOTE: This will only keep 2 versions - The Latest and the Previous.
 
 # Possible Future Updates
